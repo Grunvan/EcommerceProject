@@ -1,0 +1,1 @@
+export const primary = '#6B6AFC'; //#6B3CF8 пурпурный
